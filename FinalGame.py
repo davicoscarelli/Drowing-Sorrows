@@ -1,6 +1,6 @@
 import random, pygame, sys
 from pygame.locals import *
-
+#ygvtcf
 FPS = 15
 WINDOWWIDTH = 840
 WINDOWHEIGHT = 680
